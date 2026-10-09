@@ -1,10 +1,18 @@
 {
   "name": "build553",
   "version": "1.0.0",
-  "private": true,
-  "type": "module",
+  "description": "",
+  "main": "audioManager.dump.js",
   "scripts": {
-    "start": "node scripts/server.js",
-    "build:local": "node scripts/build.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "opentype.js": "^2.0.0",
+    "playwright": "^1.64.0"
   }
 }
