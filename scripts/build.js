@@ -4,12 +4,6 @@ import path from 'path';
 const ROOT = process.cwd();
 const PUBLIC = path.join(ROOT, 'public');
 
-// 1x1 transparent PNG
-const TRANSPARENT_PNG_1X1 = Buffer.from(
-  'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=',
-  'base64'
-);
-
 console.log('Building static site in public/...');
 
 // Clean & create public directory
@@ -41,7 +35,7 @@ for (const f of rootFiles) {
   }
 }
 
-// Copy files/ directory recursively
+// Copy files/ directory recursively (delivering all 78 authentic binary assets)
 function copyDir(srcDir, dstDir) {
   fs.mkdirSync(dstDir, { recursive: true });
   for (const entry of fs.readdirSync(srcDir, { withFileTypes: true })) {
@@ -59,25 +53,4 @@ if (fs.existsSync(path.join(ROOT, 'files'))) {
   copyDir(path.join(ROOT, 'files'), path.join(PUBLIC, 'files'));
 }
 
-// Create 1x1 fallback images in public for any textures referenced in config.json that lack a file
-const configPath = path.join(ROOT, 'config.json');
-if (fs.existsSync(configPath)) {
-  const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
-  let fallbackCount = 0;
-  for (const asset of Object.values(config.assets || {})) {
-    if (asset.file && asset.file.url) {
-      const pubFilePath = path.join(PUBLIC, asset.file.url);
-      if (!fs.existsSync(pubFilePath)) {
-        const ext = path.extname(pubFilePath).toLowerCase();
-        if (['.webp', '.png', '.jpg', '.jpeg'].includes(ext)) {
-          fs.mkdirSync(path.dirname(pubFilePath), { recursive: true });
-          fs.writeFileSync(pubFilePath, TRANSPARENT_PNG_1X1);
-          fallbackCount++;
-        }
-      }
-    }
-  }
-  console.log(`Generated ${fallbackCount} fallback textures.`);
-}
-
-console.log('Build complete. Public folder ready for Vercel static deployment.');
+console.log('Build complete. All authentic assets copied to public/.');
