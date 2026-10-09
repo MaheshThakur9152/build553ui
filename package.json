@@ -2,5 +2,9 @@
   "name": "build553",
   "version": "1.0.0",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "start": "node scripts/server.js"
+  }
 }
