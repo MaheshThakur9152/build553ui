@@ -1,0 +1,1269 @@
+[
+  {
+    "id": "292211860",
+    "name": "loading.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292237431",
+    "name": "settings.local.json",
+    "type": "json",
+    "url": "files/assets/292237431/1/settings.local.json",
+    "size": 246
+  },
+  {
+    "id": "292237877",
+    "name": "settings.json",
+    "type": "json",
+    "url": "files/assets/292237877/1/settings.json",
+    "size": 84
+  },
+  {
+    "id": "292242166",
+    "name": "EventBus.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242168",
+    "name": "SceneManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242169",
+    "name": "ScrollManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242204",
+    "name": "TransitionManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242205",
+    "name": "AudioManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242206",
+    "name": "CursorManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242209",
+    "name": "PostFXManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242250",
+    "name": "SceneSatellite.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242262",
+    "name": "SceneDatacenter.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242417",
+    "name": "SceneChip.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242420",
+    "name": "SceneUI.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242465",
+    "name": "SceneCar.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292242469",
+    "name": "SceneEnding.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292280431",
+    "name": "CameraController.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292280661",
+    "name": "SceneDiamondMap.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292432194",
+    "name": "videoEarth.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292438594",
+    "name": "satelliteMover.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292439810",
+    "name": "textureMap.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292447614",
+    "name": "diamondMover.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292449081",
+    "name": "miniDiamondAppear.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292490275",
+    "name": "scrollAppear.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292578861",
+    "name": "UIXscrollmove.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292601043",
+    "name": "screenRenderTarget.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292617818",
+    "name": "setLayerRecursive.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "292624780",
+    "name": "monitorScreenFit.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "293798294",
+    "name": "FilmGrainEffect.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "293808903",
+    "name": "mouseParallax.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294125708",
+    "name": "centerDissolve.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294129713",
+    "name": "dotgrid.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294207062",
+    "name": "movingBackground.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294368960",
+    "name": "cloudTransition.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294466898",
+    "name": "diamondLabel.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294606318",
+    "name": "Take 001.glb",
+    "type": "animation",
+    "url": "files/assets/294606318/1/Take%20001.glb",
+    "size": 67232
+  },
+  {
+    "id": "294606321",
+    "name": "Solar_panel_normal.webp",
+    "type": "texture",
+    "url": "files/assets/294606321/1/Solar_panel_normal.webp",
+    "size": 59802
+  },
+  {
+    "id": "294606322",
+    "name": "StarlinkV2-1.glb",
+    "type": "container",
+    "url": "files/assets/294606322/1/StarlinkV2-1.glb",
+    "size": 3652756
+  },
+  {
+    "id": "294606329",
+    "name": "Solar_panel_gloss.webp",
+    "type": "texture",
+    "url": "files/assets/294606329/1/Solar_panel_gloss.webp",
+    "size": 69816
+  },
+  {
+    "id": "294724770",
+    "name": "satelliteLabel.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294753048",
+    "name": "datalights.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294754040",
+    "name": "parallaxMap.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294755262",
+    "name": "satelliteFeed.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294760515",
+    "name": "mapPanAnchor.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "294760775",
+    "name": "Poliigon_TilesCeramicWhite_6956_AmbientOcclusion.jpg",
+    "type": "texture",
+    "url": "files/assets/294760775/1/Poliigon_TilesCeramicWhite_6956_AmbientOcclusion.jpg",
+    "size": 18059
+  },
+  {
+    "id": "294760950",
+    "name": "monochrome_studio_02_512k-sharp.png",
+    "type": "texture",
+    "url": "files/assets/294760950/1/monochrome_studio_02_512k-sharp.png",
+    "size": 206288
+  },
+  {
+    "id": "294761251",
+    "name": "EARTH.png",
+    "type": "texture",
+    "url": "files/assets/294761251/1/EARTH.png",
+    "size": 1047923
+  },
+  {
+    "id": "294761465",
+    "name": "sceneText.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295516297",
+    "name": "infinityFloor.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295593207",
+    "name": "posteffect-bokeh",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295593211",
+    "name": "bokehFocusRange.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295595875",
+    "name": "rotateObject.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295638209",
+    "name": "matrix.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295642651",
+    "name": "lightShot.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295657347",
+    "name": "ComputeTrayJOINED.glb",
+    "type": "container",
+    "url": "files/assets/295657347/1/ComputeTrayJOINED.glb",
+    "size": 7507724
+  },
+  {
+    "id": "295659089",
+    "name": "chipAppear.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295713684",
+    "name": "processor.glb",
+    "type": "container",
+    "url": "files/assets/295713684/1/processor.glb",
+    "size": 541660
+  },
+  {
+    "id": "295897434",
+    "name": "rackDissolve.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295912295",
+    "name": "worldText.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295912296",
+    "name": "hudText.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "295953003",
+    "name": "typeWriter.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296018586",
+    "name": "LightManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296179108",
+    "name": "Solar_panelDiffuse1.webp",
+    "type": "texture",
+    "url": "files/assets/296179108/1/Solar_panelDiffuse1.webp",
+    "size": 73294
+  },
+  {
+    "id": "296215328",
+    "name": "OverlayManager.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296220070",
+    "name": "Reflection1.png",
+    "type": "texture",
+    "url": "files/assets/296220070/1/Reflection1.png",
+    "size": 522324
+  },
+  {
+    "id": "296312491",
+    "name": "textdatacenter.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296316509",
+    "name": "ny copy.webp",
+    "type": "texture",
+    "url": "files/assets/296316509/1/ny%20copy.webp",
+    "size": 13608
+  },
+  {
+    "id": "296316510",
+    "name": "nz copy.webp",
+    "type": "texture",
+    "url": "files/assets/296316510/1/nz%20copy.webp",
+    "size": 18008
+  },
+  {
+    "id": "296316511",
+    "name": "px copy.webp",
+    "type": "texture",
+    "url": "files/assets/296316511/1/px%20copy.webp",
+    "size": 18374
+  },
+  {
+    "id": "296316512",
+    "name": "pz copy.webp",
+    "type": "texture",
+    "url": "files/assets/296316512/1/pz%20copy.webp",
+    "size": 50648
+  },
+  {
+    "id": "296316513",
+    "name": "nx copy.webp",
+    "type": "texture",
+    "url": "files/assets/296316513/1/nx%20copy.webp",
+    "size": 38372
+  },
+  {
+    "id": "296316514",
+    "name": "py copy.webp",
+    "type": "texture",
+    "url": "files/assets/296316514/1/py%20copy.webp",
+    "size": 71654
+  },
+  {
+    "id": "296323877",
+    "name": "Reflection3.png",
+    "type": "texture",
+    "url": "files/assets/296323877/1/Reflection3.png",
+    "size": 382800
+  },
+  {
+    "id": "296343035",
+    "name": "objectFade.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296362305",
+    "name": "trueGlass.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296407558",
+    "name": "datalightDiamond.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296433599",
+    "name": "textScramble.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296436897",
+    "name": "dustLight.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296475080",
+    "name": "infraGrid.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296495520",
+    "name": "mapHud.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296574674",
+    "name": "ringPulse.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296654444",
+    "name": "haloSatellite.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296663079",
+    "name": "textSatellite.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296783254",
+    "name": "aurora.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296791673",
+    "name": "nebula.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "296902347",
+    "name": "GDX-JOIN2 - FIXtop2.glb",
+    "type": "container",
+    "url": "files/assets/296902347/1/GDX-JOIN2%20-%20FIXtop2.glb",
+    "size": 825104
+  },
+  {
+    "id": "297063124",
+    "name": "nebula2.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297128009",
+    "name": "chipDots.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297174797",
+    "name": "cardSystem.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297185569",
+    "name": "cardZeroFollow.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297199958",
+    "name": "UIwallpaper.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297205581",
+    "name": "CardDesign.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297255727",
+    "name": "dataScan.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297261766",
+    "name": "GDX-3PODS-F2.glb",
+    "type": "container",
+    "url": "files/assets/297261766/1/GDX-3PODS-F2.glb",
+    "size": 1535080
+  },
+  {
+    "id": "297270891",
+    "name": "Stitches_Opacity.webp",
+    "type": "texture",
+    "url": "files/assets/297270891/1/Stitches_Opacity.webp",
+    "size": 2398
+  },
+  {
+    "id": "297270892",
+    "name": "Carpet_Diffuse.webp",
+    "type": "texture",
+    "url": "files/assets/297270892/1/Carpet_Diffuse.webp",
+    "size": 118208
+  },
+  {
+    "id": "297270893",
+    "name": "Stitches_Opacity_1.webp",
+    "type": "texture",
+    "url": "files/assets/297270893/1/Stitches_Opacity_1.webp",
+    "size": 17102
+  },
+  {
+    "id": "297270895",
+    "name": "Plastic_Bump.webp",
+    "type": "texture",
+    "url": "files/assets/297270895/1/Plastic_Bump.webp",
+    "size": 83934
+  },
+  {
+    "id": "297270901",
+    "name": "Leather_Perforated_Diffuse.webp",
+    "type": "texture",
+    "url": "files/assets/297270901/1/Leather_Perforated_Diffuse.webp",
+    "size": 27886
+  },
+  {
+    "id": "297273798",
+    "name": "matrixGrid.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297281639",
+    "name": "textCenterFade.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297298133",
+    "name": "leather_Bump copy.webp",
+    "type": "texture",
+    "url": "files/assets/297298133/1/leather_Bump%20copy.webp",
+    "size": 50022
+  },
+  {
+    "id": "297301043",
+    "name": "cardHover.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297329227",
+    "name": "videoCar.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297329940",
+    "name": "000395480029reflect.png",
+    "type": "texture",
+    "url": "files/assets/297329940/1/000395480029reflect.png",
+    "size": 431782
+  },
+  {
+    "id": "297335929",
+    "name": "posteffect-bloom",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297337347",
+    "name": "card0screenshot.webp",
+    "type": "texture",
+    "url": "files/assets/297337347/1/card0screenshot.webp",
+    "size": 27928
+  },
+  {
+    "id": "297340642",
+    "name": "Space-compressNOAUDIO-YTfullHD.mp4",
+    "type": "audio",
+    "url": "files/assets/297340642/1/Space-compressNOAUDIO-YTfullHD.mp4",
+    "size": 6049773
+  },
+  {
+    "id": "297340938",
+    "name": "Seedance2-0_r2v_00002YTHD_lowbitrate.mp4",
+    "type": "audio",
+    "url": "files/assets/297340938/1/Seedance2-0_r2v_00002YTHD_lowbitrate.mp4",
+    "size": 5690427
+  },
+  {
+    "id": "297382047",
+    "name": "optimizeRetina.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297385086",
+    "name": "emissiveFresnel.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297417320",
+    "name": "chipTransform.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297435347",
+    "name": "haloVignette.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297458955",
+    "name": "solidBackground.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297470913",
+    "name": "chipDissolve.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297590896",
+    "name": "GeneralSans-Medium.otf",
+    "type": "font",
+    "url": "files/assets/297590896/1/GeneralSans-Medium.png",
+    "size": 173545
+  },
+  {
+    "id": "297590897",
+    "name": "GeneralSans-Light.otf",
+    "type": "font",
+    "url": "files/assets/297590897/1/GeneralSans-Light.png",
+    "size": 158363
+  },
+  {
+    "id": "297590898",
+    "name": "GeneralSans-Semibold.otf",
+    "type": "font",
+    "url": "files/assets/297590898/1/GeneralSans-Semibold.png",
+    "size": 182354
+  },
+  {
+    "id": "297590899",
+    "name": "GeneralSans-Bold.otf",
+    "type": "font",
+    "url": "files/assets/297590899/1/GeneralSans-Bold.png",
+    "size": 187942
+  },
+  {
+    "id": "297590900",
+    "name": "GeneralSans-Extralight.otf",
+    "type": "font",
+    "url": "files/assets/297590900/1/GeneralSans-Extralight.png",
+    "size": 152572
+  },
+  {
+    "id": "297590901",
+    "name": "GeneralSans-Regular.otf",
+    "type": "font",
+    "url": "files/assets/297590901/1/GeneralSans-Regular.png",
+    "size": 165070
+  },
+  {
+    "id": "297624079",
+    "name": "Glow.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297624710",
+    "name": "energyField.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297695678",
+    "name": "steeringWheel.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297699331",
+    "name": "DiamondV4.glb",
+    "type": "container",
+    "url": "files/assets/297699331/1/DiamondV4.glb",
+    "size": 1450272
+  },
+  {
+    "id": "297721293",
+    "name": "triangle3D.glb",
+    "type": "container",
+    "url": "files/assets/297721293/1/triangle3D.glb",
+    "size": 1576
+  },
+  {
+    "id": "297734634",
+    "name": "shaderFade.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297775167",
+    "name": "gradientPlane.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297926489",
+    "name": "spacecloud.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "297987501",
+    "name": "Reflection2.png",
+    "type": "texture",
+    "url": "files/assets/297987501/1/Reflection2.png",
+    "size": 34912
+  },
+  {
+    "id": "298051497",
+    "name": "chromaticTransition.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298146151",
+    "name": "cloudShadows.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298204720",
+    "name": "intelligenceLayer.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298215984",
+    "name": "mapblend.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298281233",
+    "name": "scrollRotate.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298281707",
+    "name": "infraGridMap.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298286654",
+    "name": "MAP.glb",
+    "type": "container",
+    "url": "files/assets/298286654/1/MAP.glb",
+    "size": 456348
+  },
+  {
+    "id": "298346278",
+    "name": "mapClouds.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298350544",
+    "name": "6kgfa2umfqb91-edit.webp",
+    "type": "texture",
+    "url": "files/assets/298350544/1/6kgfa2umfqb91-edit.webp",
+    "size": 2484796
+  },
+  {
+    "id": "298352572",
+    "name": "CurvedScreen.glb",
+    "type": "container",
+    "url": "files/assets/298352572/1/CurvedScreen.glb",
+    "size": 21728
+  },
+  {
+    "id": "298361492",
+    "name": "pointerRipple.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298371763",
+    "name": "endingCredits.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298497716",
+    "name": "rearlightflare.webp",
+    "type": "texture",
+    "url": "files/assets/298497716/1/rearlightflare.webp",
+    "size": 46754
+  },
+  {
+    "id": "298497886",
+    "name": "imgcarflare.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298499543",
+    "name": "backflare.webp",
+    "type": "texture",
+    "url": "files/assets/298499543/1/backflare.webp",
+    "size": 18638
+  },
+  {
+    "id": "298537756",
+    "name": "podFade.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298615133",
+    "name": "shadowcar.webp",
+    "type": "texture",
+    "url": "files/assets/298615133/1/shadowcar.webp",
+    "size": 131602
+  },
+  {
+    "id": "298616193",
+    "name": "imgplane.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298623365",
+    "name": "reflectionPOD.webp",
+    "type": "texture",
+    "url": "files/assets/298623365/1/reflectionPOD.webp",
+    "size": 34808
+  },
+  {
+    "id": "298667245",
+    "name": "textblur.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298739098",
+    "name": "cubesTransition.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298850929",
+    "name": "plexus.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "298861848",
+    "name": "basis.wasm.wasm",
+    "type": "wasm",
+    "url": "files/assets/298861848/1/basis.wasm.wasm",
+    "size": 611602
+  },
+  {
+    "id": "298861849",
+    "name": "basis.js",
+    "type": "script",
+    "url": "files/assets/298861849/1/basis.js",
+    "size": 1038957
+  },
+  {
+    "id": "298861850",
+    "name": "basis.wasm.js",
+    "type": "script",
+    "url": "files/assets/298861850/1/basis.wasm.js",
+    "size": 60106
+  },
+  {
+    "id": "298863804",
+    "name": "card4.webp",
+    "type": "texture",
+    "url": "files/assets/298863804/1/card4.webp",
+    "size": 33550
+  },
+  {
+    "id": "298888460",
+    "name": "Poliigon_TilesCeramicWhite_6956_Normal.png",
+    "type": "texture",
+    "url": "files/assets/298888460/1/Poliigon_TilesCeramicWhite_6956_Normal.png",
+    "size": 511027
+  },
+  {
+    "id": "298936975",
+    "name": "abstractwall_5_normal-1K.webp",
+    "type": "texture",
+    "url": "files/assets/298936975/1/abstractwall_5_normal-1K.webp",
+    "size": 109328
+  },
+  {
+    "id": "298949851",
+    "name": "Tesla-ready2.glb",
+    "type": "container",
+    "url": "files/assets/298949851/1/Tesla-ready2.glb",
+    "size": 7325056
+  },
+  {
+    "id": "298957981",
+    "name": "card3-2.webp",
+    "type": "texture",
+    "url": "files/assets/298957981/1/card3-2.webp",
+    "size": 184998
+  },
+  {
+    "id": "298958818",
+    "name": "card2-2.webp",
+    "type": "texture",
+    "url": "files/assets/298958818/1/card2-2.webp",
+    "size": 58756
+  },
+  {
+    "id": "298968097",
+    "name": "card1-2.webp",
+    "type": "texture",
+    "url": "files/assets/298968097/1/card1-2.webp",
+    "size": 48542
+  },
+  {
+    "id": "298971146",
+    "name": "Skybox.png",
+    "type": "cubemap",
+    "url": "files/assets/298971146/1/Skybox.png",
+    "size": 182080
+  },
+  {
+    "id": "298988831",
+    "name": "AutonomousDeployment.glb",
+    "type": "container",
+    "url": "files/assets/298988831/1/AutonomousDeployment.glb",
+    "size": 141696
+  },
+  {
+    "id": "299037872",
+    "name": "revealLightTrail.js",
+    "type": "script",
+    "url": "__game-scripts.js",
+    "size": 1000462
+  },
+  {
+    "id": "299229076",
+    "name": "bass_stemAUDITION30.ogg",
+    "type": "audio",
+    "url": "files/assets/299229076/1/bass_stemAUDITION30.ogg",
+    "size": 615147
+  },
+  {
+    "id": "299302867",
+    "name": "melody_stem_AUDITION302.ogg",
+    "type": "audio",
+    "url": "files/assets/299302867/1/melody_stem_AUDITION302.ogg",
+    "size": 890451
+  },
+  {
+    "id": "299304748",
+    "name": "instruments_stemAUDITION305.ogg",
+    "type": "audio",
+    "url": "files/assets/299304748/1/instruments_stemAUDITION305.ogg",
+    "size": 618175
+  },
+  {
+    "id": "299306216",
+    "name": "BTNclick2.ogg",
+    "type": "audio",
+    "url": "files/assets/299306216/1/BTNclick2.ogg",
+    "size": 8773
+  },
+  {
+    "id": "299313827",
+    "name": "diamond2.ogg",
+    "type": "audio",
+    "url": "files/assets/299313827/1/diamond2.ogg",
+    "size": 24989
+  },
+  {
+    "id": "299314557",
+    "name": "map.ogg",
+    "type": "audio",
+    "url": "files/assets/299314557/1/map.ogg",
+    "size": 42991
+  },
+  {
+    "id": "299338751",
+    "name": "rack.ogg",
+    "type": "audio",
+    "url": "files/assets/299338751/1/rack.ogg",
+    "size": 15054
+  },
+  {
+    "id": "299345449",
+    "name": "wafertexure_upscayl2.webp",
+    "type": "texture",
+    "url": "files/assets/299345449/1/wafertexure_upscayl2.webp",
+    "size": 381628
+  },
+  {
+    "id": "299456165",
+    "name": "computecore2.ogg",
+    "type": "audio",
+    "url": "files/assets/299456165/1/computecore2.ogg",
+    "size": 87679
+  },
+  {
+    "id": "299456357",
+    "name": "textrack.ogg",
+    "type": "audio",
+    "url": "files/assets/299456357/1/textrack.ogg",
+    "size": 40480
+  },
+  {
+    "id": "299456592",
+    "name": "textchip2.ogg",
+    "type": "audio",
+    "url": "files/assets/299456592/1/textchip2.ogg",
+    "size": 102752
+  },
+  {
+    "id": "299484005",
+    "name": "quantum5.ogg",
+    "type": "audio",
+    "url": "files/assets/299484005/1/quantum5.ogg",
+    "size": 84965
+  },
+  {
+    "id": "299492189",
+    "name": "Scrambletext.ogg",
+    "type": "audio",
+    "url": "files/assets/299492189/1/Scrambletext.ogg",
+    "size": 29145
+  },
+  {
+    "id": "299493082",
+    "name": "intelligent.ogg",
+    "type": "audio",
+    "url": "files/assets/299493082/1/intelligent.ogg",
+    "size": 14660
+  },
+  {
+    "id": "299500275",
+    "name": "UIscreen.ogg",
+    "type": "audio",
+    "url": "files/assets/299500275/1/UIscreen.ogg",
+    "size": 15829
+  },
+  {
+    "id": "299520427",
+    "name": "AICHIP.ogg",
+    "type": "audio",
+    "url": "files/assets/299520427/1/AICHIP.ogg",
+    "size": 33947
+  }
+]

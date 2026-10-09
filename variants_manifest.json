@@ -1,0 +1,138 @@
+[
+  {
+    "assetId": "294606321",
+    "name": "Solar_panel_normal.webp",
+    "variantType": "basis",
+    "filename": "Solar_panel_normal.basis",
+    "url": "files/assets/294606321/1/Solar_panel_normal.basis",
+    "size": 196091
+  },
+  {
+    "assetId": "294606329",
+    "name": "Solar_panel_gloss.webp",
+    "variantType": "basis",
+    "filename": "Solar_panel_gloss.basis",
+    "url": "files/assets/294606329/1/Solar_panel_gloss.basis",
+    "size": 109750
+  },
+  {
+    "assetId": "294760775",
+    "name": "Poliigon_TilesCeramicWhite_6956_AmbientOcclusion.jpg",
+    "variantType": "basis",
+    "filename": "Poliigon_TilesCeramicWhite_6956_AmbientOcclusion.basis",
+    "url": "files/assets/294760775/1/Poliigon_TilesCeramicWhite_6956_AmbientOcclusion.basis",
+    "size": 12228
+  },
+  {
+    "assetId": "296179108",
+    "name": "Solar_panelDiffuse1.webp",
+    "variantType": "basis",
+    "filename": "Solar_panelDiffuse1.basis",
+    "url": "files/assets/296179108/1/Solar_panelDiffuse1.basis",
+    "size": 1498609
+  },
+  {
+    "assetId": "296316509",
+    "name": "ny copy.webp",
+    "variantType": "basis",
+    "filename": "ny copy.basis",
+    "url": "files/assets/296316509/1/ny%20copy.basis",
+    "size": 79350
+  },
+  {
+    "assetId": "296316510",
+    "name": "nz copy.webp",
+    "variantType": "basis",
+    "filename": "nz copy.basis",
+    "url": "files/assets/296316510/1/nz%20copy.basis",
+    "size": 96871
+  },
+  {
+    "assetId": "296316511",
+    "name": "px copy.webp",
+    "variantType": "basis",
+    "filename": "px copy.basis",
+    "url": "files/assets/296316511/1/px%20copy.basis",
+    "size": 111975
+  },
+  {
+    "assetId": "296316512",
+    "name": "pz copy.webp",
+    "variantType": "basis",
+    "filename": "pz copy.basis",
+    "url": "files/assets/296316512/1/pz%20copy.basis",
+    "size": 239815
+  },
+  {
+    "assetId": "296316513",
+    "name": "nx copy.webp",
+    "variantType": "basis",
+    "filename": "nx copy.basis",
+    "url": "files/assets/296316513/1/nx%20copy.basis",
+    "size": 210366
+  },
+  {
+    "assetId": "296316514",
+    "name": "py copy.webp",
+    "variantType": "basis",
+    "filename": "py copy.basis",
+    "url": "files/assets/296316514/1/py%20copy.basis",
+    "size": 281477
+  },
+  {
+    "assetId": "297270892",
+    "name": "Carpet_Diffuse.webp",
+    "variantType": "basis",
+    "filename": "Carpet_Diffuse.basis",
+    "url": "files/assets/297270892/1/Carpet_Diffuse.basis",
+    "size": 156848
+  },
+  {
+    "assetId": "297270895",
+    "name": "Plastic_Bump.webp",
+    "variantType": "basis",
+    "filename": "Plastic_Bump.basis",
+    "url": "files/assets/297270895/1/Plastic_Bump.basis",
+    "size": 161370
+  },
+  {
+    "assetId": "297270901",
+    "name": "Leather_Perforated_Diffuse.webp",
+    "variantType": "basis",
+    "filename": "Leather_Perforated_Diffuse.basis",
+    "url": "files/assets/297270901/1/Leather_Perforated_Diffuse.basis",
+    "size": 33888
+  },
+  {
+    "assetId": "297298133",
+    "name": "leather_Bump copy.webp",
+    "variantType": "basis",
+    "filename": "leather_Bump copy.basis",
+    "url": "files/assets/297298133/1/leather_Bump%20copy.basis",
+    "size": 151171
+  },
+  {
+    "assetId": "298615133",
+    "name": "shadowcar.webp",
+    "variantType": "basis",
+    "filename": "shadowcar.basis",
+    "url": "files/assets/298615133/1/shadowcar.basis",
+    "size": 59244
+  },
+  {
+    "assetId": "298623365",
+    "name": "reflectionPOD.webp",
+    "variantType": "basis",
+    "filename": "reflectionPOD.basis",
+    "url": "files/assets/298623365/1/reflectionPOD.basis",
+    "size": 17739
+  },
+  {
+    "assetId": "299345449",
+    "name": "wafertexure_upscayl2.webp",
+    "variantType": "basis",
+    "filename": "wafertexure_upscayl2.basis",
+    "url": "files/assets/299345449/1/wafertexure_upscayl2.basis",
+    "size": 373029
+  }
+]
